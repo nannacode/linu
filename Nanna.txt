@@ -2,4 +2,8 @@ Bhai Sahab  Kaise Ho ???
 
 Moodificarion From A1
 File LocAl Not update 
+<<<<<<< HEAD
 never mind
+=======
+Chale chalo
+>>>>>>> 58d020b5a4a3eccdab7035b567d8f4213247a29b
